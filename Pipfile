@@ -11,6 +11,7 @@ flask = "*"
 flask-sqlalchemy = "*"
 pymongo = {extras = ["srv"],version = "*"}
 dnspython = "*"
+flask-json = "*"
 
 [requires]
 python_version = "3.6"
